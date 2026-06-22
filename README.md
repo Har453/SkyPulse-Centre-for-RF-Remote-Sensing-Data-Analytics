@@ -58,7 +58,7 @@ Data is aggregated at a central gateway and pushed to a cloud dashboard for real
 **Showcased at:** India Mobile Congress (IMC) 2025
 
 <p align="center">
-<img src="downloads/imc.jpg" width="500">
+<img src="images/imc.jpg" width="500">
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Environmental sensing node for hyperlocal atmospheric monitoring applications.
 ```
 
 <p align="center">
-<img src="downloads/L_band.jpg" width="600">
+<img src="images/L_band.jpg" width="600">
 </p>
 
 <p align="center">
